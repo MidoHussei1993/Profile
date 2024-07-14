@@ -53,7 +53,7 @@ const FullScreenDefaultIntro = () => {
                 className="img-fluid rounded-pill d-block"
                 src="images/profileImg.jpg"
                 title="I'm Mohamud Menom"
-                alt="I'm David"
+                alt="I'm Mohamed Monem"
               />
             </div>
           </div>

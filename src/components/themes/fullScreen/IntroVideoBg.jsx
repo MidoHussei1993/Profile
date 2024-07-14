@@ -68,7 +68,7 @@ const FullScreenVideoBgIntro = () => {
                     className="img-fluid rounded-pill d-block"
                     src="images/web-developer.jpg"
                     title="I'm mohamud-menom"
-                    alt="I'm David"
+                    alt="I'm Mohamed Monem"
                   />
                 </div>
               </div>

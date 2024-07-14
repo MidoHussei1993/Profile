@@ -19,7 +19,7 @@ const Portfolio = () => {
               <a href="https://api.faster.sa:8080/auth/login" target="_blank">
                 <img
                   width={"250px"}
-                  src="/images/projects/faster.png"
+                  src="images/projects/faster.png"
                   alt=""
                   className="mx-3 img-fluid"
                 />
@@ -31,14 +31,14 @@ const Portfolio = () => {
               >
                 <img
                   width={"250px"}
-                  src="/images/projects/mobile-logo.svg"
+                  src="images/projects/mobile-logo.svg"
                   alt=""
                 />
               </a>
               <a href="https://topqdrat.com/ar" target="_blank">
                 <img
                   width={"250px"}
-                  src="/images/projects/new-logo.b526323.png"
+                  src="images/projects/new-logo.b526323.png"
                   className="mx-3 img-fluid"
                   alt=""
                 />
@@ -46,7 +46,7 @@ const Portfolio = () => {
               <a href="https://ikschools.com/ar/main-page" target="_blank">
                 <img
                   width={"200px"}
-                  src="/images/projects/1663594404rvrbmkblkd.png"
+                  src="images/projects/1663594404rvrbmkblkd.png"
                   className="mx-3 img-fluid"
                   alt=""
                 />

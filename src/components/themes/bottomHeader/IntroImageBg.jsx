@@ -23,8 +23,8 @@ const BottomHeaderImgBgIntro = () => {
                     <img
                       className="img-fluid rounded-pill d-block"
                       src="images/web-developer-sm.jpg"
-                      title="I'm David"
-                      alt="I'm David"
+                      title="I'm Mohamed Monem"
+                      alt="I'm Mohamed Monem"
                     />{" "}
                   </div>
                   <h2 className="text-10 text-white text-uppercase fw-600 mb-4 wow fadeInUp">

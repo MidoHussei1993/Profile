@@ -69,7 +69,7 @@ const StandardMenuVideoBgIntro = () => {
                     className="img-fluid rounded-pill d-block"
                     src="images/web-developer.jpg"
                     title="I'm Callum"
-                    alt="I'm David"
+                    alt="I'm Mohamed Monem"
                   />
                 </div>
               </div>
