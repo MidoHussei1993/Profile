@@ -12,7 +12,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import "./sass/stylesheet.scss";
 
-import "./index.scss";
+import "./sass/color-orange.scss";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 

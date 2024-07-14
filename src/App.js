@@ -16,7 +16,6 @@ import {
 import { Tooltip } from "./components/Tooltip";
 import CallToAction from "./components/CallToAction";
 import FAQs from "./components/FAQs";
-import FullScreenVideoBgIntro from "./components/themes/fullScreen/IntroVideoBg";
 import FullScreenHeader from "./components/themes/fullScreen/Header";
 import FullScreenDefaultIntro from "./components/themes/fullScreen/IntroDefault";
 import FullScreenImgBgIntro from "./components/themes/fullScreen/IntroImageBg";
@@ -24,10 +23,8 @@ import BottomHeader from "./components/themes/bottomHeader/Header";
 import StandardMenuHeader from "./components/themes/StandardMenu/Header";
 import BottomHeaderDefaultIntro from "./components/themes/bottomHeader/IntroDefault";
 import BottomHeaderImgBgIntro from "./components/themes/bottomHeader/IntroImageBg";
-import BottomHeaderVideoBgIntro from "./components/themes/bottomHeader/IntroVideoBg";
 import StandardMenuDefaultIntro from "./components/themes/StandardMenu/IntroDefault";
 import StandardMenuImgBgIntro from "./components/themes/StandardMenu/IntroImageBg";
-import StandardMenuVideoBgIntro from "./components/themes/StandardMenu/IntroVideoBg";
 
 function App() {
   const appliedTheme = appliedConfig.appliedTheme;
@@ -83,8 +80,6 @@ function App() {
       return <BottomHeaderDefaultIntro></BottomHeaderDefaultIntro>;
     } else if (appliedIntro === introBackgroundConfig.image) {
       return <BottomHeaderImgBgIntro></BottomHeaderImgBgIntro>;
-    } else {
-      return <BottomHeaderVideoBgIntro></BottomHeaderVideoBgIntro>;
     }
   };
 
@@ -93,8 +88,6 @@ function App() {
       return <FullScreenDefaultIntro></FullScreenDefaultIntro>;
     } else if (appliedIntro === introBackgroundConfig.image) {
       return <FullScreenImgBgIntro></FullScreenImgBgIntro>;
-    } else {
-      return <FullScreenVideoBgIntro></FullScreenVideoBgIntro>;
     }
   };
 
@@ -103,8 +96,6 @@ function App() {
       return <StandardMenuDefaultIntro></StandardMenuDefaultIntro>;
     } else if (appliedIntro === introBackgroundConfig.image) {
       return <StandardMenuImgBgIntro></StandardMenuImgBgIntro>;
-    } else {
-      return <StandardMenuVideoBgIntro></StandardMenuVideoBgIntro>;
     }
   };
 
