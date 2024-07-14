@@ -67,13 +67,13 @@ const FullScreenHeader = ({ textWhite }) => {
           {/* Logo End */}
           {/* <a href="tel:+201062672600" className="text-3 ms-auto me-2"></a> */}
           <a
-            href="tel:+201062672600"
+            href="https://web.whatsapp.com/send?phone=201062672600&text&app_absent=0"
             className={
               "text-3 ms-auto me-2 " + (textWhite ? "text-white" : "text-dark")
             }
           >
             <span className="text-4 me-2">
-              <i className="fas fa-phone" />
+              <i className="fas fa-whatsapp" />
             </span>
             (+20) 1062672600
           </a>
@@ -286,6 +286,17 @@ const FullScreenHeader = ({ textWhite }) => {
                       rel="noopener noreferrer"
                     >
                       <i className="fab fa-linkedin" />
+                    </a>
+                  </Tooltip>
+                </li>
+                <li className="social-icons-whatsapp">
+                  <Tooltip text="whatsapp" placement="top">
+                    <a
+                      href="https://web.whatsapp.com/send?phone=201062672600&text&app_absent=0"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fab fa-whatsapp" />
                     </a>
                   </Tooltip>
                 </li>

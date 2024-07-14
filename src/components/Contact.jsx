@@ -127,6 +127,17 @@ const Contact = () => {
                   </a>
                 </Tooltip>
               </li>
+              <li className="social-icons-whatsapp">
+                <Tooltip text="whatsapp" placement="top">
+                  <a
+                    href="https://web.whatsapp.com/send?phone=201062672600&text&app_absent=0"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="fab fa-whatsapp" />
+                  </a>
+                </Tooltip>
+              </li>
             </ul>
           </div>
           <div
