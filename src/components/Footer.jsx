@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="col-lg-7 text-center text-lg-start wow fadeInUp mx-auto d-flex justify-content-center align-items-center">
             <div>
               <img
-                src="images/mohmedMonemLogoWhite.png"
+                src="mylogo.svg"
                 width="75px"
                 height="75px"
                 alt=""

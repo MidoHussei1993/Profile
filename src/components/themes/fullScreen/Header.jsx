@@ -69,13 +69,14 @@ const FullScreenHeader = ({ textWhite }) => {
           <a
             href="https://web.whatsapp.com/send?phone=201062672600&text&app_absent=0"
             className={
-              "text-3 ms-auto me-2 " + (textWhite ? "text-white" : "text-dark")
+              "text-3 ms-auto me-2 header-whatsapp " +
+              (textWhite ? "text-white" : "text-dark")
             }
           >
             <span className="text-4 me-2">
-              <i className="fas fa-whatsapp" />
+              <i className="fab fa-whatsapp h3" />
             </span>
-            (+20) 1062672600
+            <span>(+20) 1062672600</span>
           </a>
           <button
             className={

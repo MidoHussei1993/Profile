@@ -180,6 +180,10 @@ html[dir="rtl"] #footer {
   &.social-icons-colored li.social-icons-linkedin a {
     color: $linkedin;
   }
+  li:hover.social-icons-whatsapp a,
+  &.social-icons-colored li.social-icons-whatsapp a {
+    color: $whatsapp;
+  }
   li:hover.social-icons-rss a,
   &.social-icons-colored li.social-icons-rss a {
     color: $rss;
@@ -210,7 +214,11 @@ html[dir="rtl"] #footer {
   }
   li:hover.social-icons-instagram a,
   &.social-icons-colored li.social-icons-instagram a {
-    color: $instagram;
+    // color: $instagram;
+    background: linear-gradient(#f9ce34, #ee2a7b, #6228d7);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   li:hover.social-icons-skype a,
   &.social-icons-colored li.social-icons-skype a {

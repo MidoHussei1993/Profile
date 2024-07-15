@@ -67,8 +67,14 @@ const Contact = () => {
             <address className="text-4">10TH of Ramadan city, Egypt.</address>
             <h3 className="text-5 fw-600">Call:</h3>
             <p className="text-4">
-              <a className="text-4 text-dark text-" href="tel:+201062672600">
-                (+20) 10 626 72 600
+              <a
+                className="text-4 text-dark header-whatsapp"
+                href="https://web.whatsapp.com/send?phone=201062672600&text&app_absent=0"
+              >
+                <span className="text-4 me-2">
+                  <i className="fab fa-whatsapp h3" />
+                </span>
+                <span>(+20) 1062672600</span>
               </a>
             </p>
             <ul className="social-icons social-icons-lg justify-content-center justify-content-lg-start mt-5">

@@ -8,12 +8,12 @@ const Resume = () => {
       title: ".Net Full Stack Diploma",
       place: "ITI",
       desc: [
-        "Strong understanding of fundamental computer science concepts (algorithms, data structures).",
-        `Experience with at least one front-end technology and framework (html , css , bootstrap, React, Angular, Vue.js)`,
-        `Familiarity with a server-side language (C#, Node.js) and database technologies (e.g., SQL, NoSQL)`,
-        "Excellent problem-solving and analytical skills",
-        "Strong communication and collaboration skills",
-        "A passion for learning and a willingness to take on new challenges",
+        // "Strong understanding of fundamental computer science concepts (algorithms, data structures).",
+        // `Experience with at least one front-end technology and framework (html , css , bootstrap, React, Angular, Vue.js)`,
+        // `Familiarity with a server-side language (C#, Node.js) and database technologies (e.g., SQL, NoSQL)`,
+        // "Excellent problem-solving and analytical skills",
+        // "Strong communication and collaboration skills",
+        // "A passion for learning and a willingness to take on new challenges",
       ],
     },
     {
@@ -21,9 +21,9 @@ const Resume = () => {
       title: "Full stack developer internship",
       place: "ATHER LOGIC",
       desc: [
-        "Develop and maintain web applications using c# and Angular CLI",
-        `Collaborate with designers and backend developers to implement user
-interfaces.`,
+        //         "Develop and maintain web applications using c# and Angular CLI",
+        //         `Collaborate with designers and backend developers to implement user
+        // interfaces.`,
       ],
     },
     {
@@ -32,10 +32,10 @@ interfaces.`,
         "B.Sc. of Computer Science, Faculty of Management Information Systems",
       place: "Elabsia Institute",
       desc: [
-        "My degree program provided a strong foundation in computer science principles, coupled with a focus on applying those principles to solve business problems.",
-        `I gained expertise in core CS areas like algorithms, programming (languages like c#), and database management, while also delving into areas like business process analysis, information systems design, and data analysis for business intelligence`,
-        "This unique blend equips me to not only develop technical solutions but also understand how technology can effectively serve organizational objectives.",
-        "Through this program, I honed my communication and collaboration skills, making me adept at working within cross-functional teams.",
+        // "My degree program provided a strong foundation in computer science principles, coupled with a focus on applying those principles to solve business problems.",
+        // `I gained expertise in core CS areas like algorithms, programming (languages like c#), and database management, while also delving into areas like business process analysis, information systems design, and data analysis for business intelligence`,
+        // "This unique blend equips me to not only develop technical solutions but also understand how technology can effectively serve organizational objectives.",
+        // "Through this program, I honed my communication and collaboration skills, making me adept at working within cross-functional teams.",
       ],
     },
   ];
@@ -47,9 +47,9 @@ interfaces.`,
       place: "Saudi Arabia",
       type: "Remote, Part-time",
       desc: [
-        "Develop and maintain web applications using React.js",
-        `Collaborate with designers and backend developers to implement user
-interfaces.`,
+        //         "Develop and maintain web applications using React.js",
+        //         `Collaborate with designers and backend developers to implement user
+        // interfaces.`,
       ],
     },
     {
@@ -58,22 +58,22 @@ interfaces.`,
       place: "Egypt",
       type: "Full-time",
       desc: [
-        `Set up development plans for the front-end team`,
-        `Collaborate with cross-functional teams, including designers, backend
-developers, QA teams and stakeholders, to design and implement robust
-frontend applications using Angular, Vue , Nuxt , JavaScript, HTML, and CSS.`,
-        `Conduct code reviews to ensure quality output.`,
-        `Worked with a cross-functional, full-stack development team and had prior
-experience building cross-platform, responsive, high-performing user interfaces
-for web applications.`,
-        `Design and develop scalable web applications using open-source technologies.`,
-        `Work with UX Designers and other Developers to implement full-stack web
-solutions.`,
-        `Optimizes application for maximum speed and scalability.`,
-        `Keeping up to date with the latest technologies and trends in front-end
-development.`,
-        `Use Next.js features such as server-side rendering and static site generation to
-improve performance and SEO.`,
+        //         `Set up development plans for the front-end team`,
+        //         `Collaborate with cross-functional teams, including designers, backend
+        // developers, QA teams and stakeholders, to design and implement robust
+        // frontend applications using Angular, Vue , Nuxt , JavaScript, HTML, and CSS.`,
+        //         `Conduct code reviews to ensure quality output.`,
+        //         `Worked with a cross-functional, full-stack development team and had prior
+        // experience building cross-platform, responsive, high-performing user interfaces
+        // for web applications.`,
+        //         `Design and develop scalable web applications using open-source technologies.`,
+        //         `Work with UX Designers and other Developers to implement full-stack web
+        // solutions.`,
+        //         `Optimizes application for maximum speed and scalability.`,
+        //         `Keeping up to date with the latest technologies and trends in front-end
+        // development.`,
+        //         `Use Next.js features such as server-side rendering and static site generation to
+        // improve performance and SEO.`,
       ],
     },
     {
@@ -82,9 +82,9 @@ improve performance and SEO.`,
       place: "Saudi Arabia",
       type: "Remote, Part-time",
       desc: [
-        "Develop and maintain web applications using Angular",
-        `Collaborate with designers and backend developers to implement user
-interfaces.`,
+        //         "Develop and maintain web applications using Angular",
+        //         `Collaborate with designers and backend developers to implement user
+        // interfaces.`,
       ],
     },
     {
@@ -93,10 +93,10 @@ interfaces.`,
       type: "Full-time",
       place: "Saudi Arabia",
       desc: [
-        `Developed a secure, interactive web application with a modern front-end.`,
-        `Develop and maintain web applications using Vue.js and Nuxt.js.`,
-        `Ensure the technical feasibility of UI/UX designs.`,
-        `Collaborate with designers and backend developers to implement user interfaces.`,
+        // `Developed a secure, interactive web application with a modern front-end.`,
+        // `Develop and maintain web applications using Vue.js and Nuxt.js.`,
+        // `Ensure the technical feasibility of UI/UX designs.`,
+        // `Collaborate with designers and backend developers to implement user interfaces.`,
       ],
     },
     {
@@ -105,10 +105,10 @@ interfaces.`,
       type: "Full-time",
       place: "Egypt",
       desc: [
-        "Develop and maintain web applications using Angular CLI , Vue.js and Nuxt.js.",
-        "Ensure the technical feasibility of UI/UX designs.",
-        `Collaborate with designers and backend developers to implement user
-interfaces.`,
+        //         "Develop and maintain web applications using Angular CLI , Vue.js and Nuxt.js.",
+        //         "Ensure the technical feasibility of UI/UX designs.",
+        //         `Collaborate with designers and backend developers to implement user
+        // interfaces.`,
       ],
     },
     {
@@ -117,8 +117,8 @@ interfaces.`,
       type: "Full-time",
       place: "Saudi Arabia",
       desc: [
-        `Developed a secure, interactive web application with a modern front-end.`,
-        `Develop and maintain web applications using Angular.`,
+        // `Developed a secure, interactive web application with a modern front-end.`,
+        // `Develop and maintain web applications using Angular.`,
       ],
     },
     {
@@ -132,76 +132,28 @@ interfaces.`,
 
   const skills = [
     {
-      name: "Web Design",
-      percent: 90,
-    },
-    {
       name: "HTML/CSS",
-      percent: 95,
-    },
-    {
-      name: "SASS",
-      percent: 95,
-    },
-    {
-      name: "Bootstrap",
-      percent: 99,
-    },
-    {
-      name: "Tailwind CSS",
-      percent: 99,
-    },
-    {
-      name: "Element UI",
-      percent: 99,
-    },
-    {
-      name: "JavaScript",
-      percent: 95,
-    },
-    {
-      name: "TypeScript",
-      percent: 95,
-    },
-    {
-      name: "React JS",
-      percent: 80,
-    },
-    {
-      name: "Angular",
-      percent: 95,
-    },
-    {
-      name: "RxJS",
-      percent: 95,
-    },
-    {
-      name: "NgRx",
-      percent: 95,
-    },
-    {
-      name: "Angular Material",
       percent: 100,
     },
     {
-      name: "PrimeNG",
+      name: "JavaScript",
+      percent: 100,
+    },
+    {
+      name: "React JS",
+      percent: 100,
+    },
+    {
+      name: "Angular",
       percent: 100,
     },
     {
       name: "Vue.js",
-      percent: 95,
+      percent: 100,
     },
     {
       name: "Nuxt.js",
-      percent: 95,
-    },
-    {
-      name: "Vuex",
-      percent: 95,
-    },
-    {
-      name: "PrimeVue",
-      percent: 95,
+      percent: 100,
     },
   ];
 

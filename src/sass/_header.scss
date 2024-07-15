@@ -503,6 +503,10 @@ html[dir="rtl"] .side-header {
     }
     .navbar-collapse {
       background: rgba(0, 0, 0, 0.95);
+      // background: rgba(0, 0, 0, 0.8);
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      backdrop-filter: blur(6.8px);
+      -webkit-backdrop-filter: blur(6.8px);
     }
   }
 }
@@ -542,7 +546,7 @@ html[dir="rtl"] .side-header {
   top: 0;
   width: 100%;
   pointer-events: auto;
-  height: 100% !important;
+  height: 100vh !important;
   opacity: 0 !important;
   visibility: hidden;
   background: rgba(255, 255, 250, 0.95);

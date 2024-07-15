@@ -3,18 +3,15 @@
 @import "bootstrap/mixins";
 @import "bootstrap/vendor/rfs";
 
-
 // Initialize
 @import "variables";
 @import "mixins";
-
 
 // Core CSS
 @import "preloader";
 @import "reset";
 @import "helpers";
 @import "layouts";
-
 
 // Content Blocks
 @import "header";
@@ -23,4 +20,16 @@
 @import "extras";
 
 //react-modal-video
-@import 'node_modules/react-modal-video/scss/modal-video.scss';
+@import "node_modules/react-modal-video/scss/modal-video.scss";
+
+.header-whatsapp {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  &:hover {
+    font-weight: 600;
+    span i {
+      color: $whatsapp;
+    }
+  }
+}
