@@ -23,6 +23,7 @@
     "sass": "^1.55.0",
     "slick-carousel": "^1.8.1",
     "typewriter-effect": "^2.19.0",
+    "uvcanvas": "^0.2.1",
     "web-vitals": "^2.1.4",
     "wowjs": "^1.1.3"
   },

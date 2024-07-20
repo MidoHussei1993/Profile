@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { ToastContainer, toast } from "react-toastify";
-
+import { Velustro   } from "uvcanvas"
 import "react-toastify/dist/ReactToastify.css";
 import { Tooltip } from "./Tooltip";
 
@@ -54,6 +54,11 @@ const Contact = () => {
 
   return (
     <section id="contact" className="section bg-primary">
+      <div style={{position:'absolute',top:'0',left:'0',width:'100%',height:'100%'}}>
+
+      <Velustro   />
+      </div>
+      <div className="contct-us-form" >
       <div className="container">
         <div className="row">
           <div className="col-lg-5 text-center text-lg-start wow fadeInUp">
@@ -230,6 +235,7 @@ const Contact = () => {
             {/* Contact Form end */}
           </div>
         </div>
+      </div>
       </div>
     </section>
   );
