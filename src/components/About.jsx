@@ -20,11 +20,17 @@ const AboutUs = () => {
               </span>
             </h2>
             <p className="text-5">
-              I'm a designer &amp; developer with a passion for web design. I
-              enjoy developing simple, clean and slick websites that provide
-              real value to the end user. Thousands of clients have procured
-              exceptional results while working with me. Delivering work within
-              time and budget which meets client’s requirements is our moto.
+              Highly skilled Senior Frontend Web Developer with over 7 years of
+              experience crafting exceptional user experiences. Proficient in a
+              wide range of technologies including Angular, React, Vue, and
+              Nuxt, coupled with a strong foundation in HTML, CSS, JavaScript,
+              TypeScript, SASS, Bootstrap, and Tailwind. Passionate about
+              building robust and scalable web applications and PWAs.
+              <br />I thrive in collaborative environments, leveraging strong
+              communication and teamwork skills to deliver innovative solutions.
+              Committed to staying at the forefront of web development trends, I
+              am eager to contribute to dynamic projects and drive digital
+              transformation
             </p>
           </div>
           <div
